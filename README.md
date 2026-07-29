@@ -45,7 +45,7 @@ A responsive Instagram profile interface recreated with HTML and CSS. <br>
 
 
 ### 📊 Responsive Admin Panel
-A responsive admin dashboard interface designed for different screen sizes.
+A responsive admin dashboard interface designed for different screen sizes. <br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/index.html) <br>
 💻 [View CSS Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/css/style.css) <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/js/index.js) <br>
@@ -53,7 +53,7 @@ A responsive admin dashboard interface designed for different screen sizes.
 
 
 ### 🎮 Tic-Tac-Toe
-A classic Tic-Tac-Toe game developed as a programming project.
+A classic Tic-Tac-Toe game developed as a programming project. <br>
 💻 [View HTML Code]( https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/index.html) <br>
 💻 [View CSS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/css/style.css) <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/js/index.js) <br>
