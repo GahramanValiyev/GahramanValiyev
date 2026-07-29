@@ -25,7 +25,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 - AI-Assisted Development & AI Subagents
 
 
-  I am continuously expanding my knowledge through hands-on projects, self-learning and practical experience.
+I am continuously expanding my knowledge through hands-on projects, self-learning and practical experience.
 
 ---
 
@@ -35,7 +35,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 A modern and responsive landing page project.<br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)<br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/) <br>
-⚙️ [View JavaScript Code](./js)
+⚙️ [View JavaScript Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/js)<br>
 
 
 ### 📱 Instagram Profile
