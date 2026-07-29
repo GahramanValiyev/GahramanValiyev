@@ -32,13 +32,10 @@ I am continuously expanding my knowledge through hands-on projects, self-learnin
 
 ## 🚀 Projects
 
-### ☕ CafeLite Landing Page
-A modern and responsive landing page project.<br>
-💻 <a href="https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html" target="_blank">View HTML Code</a><br>
-
-🎨 <a href="https://github.com/GahramanValiyev/CafeElite-LandingPage/tree/master/src/scss" target="_blank">View CSS Code</a><br>
-
-🌐 <a href="https://gahramanvaliyev.github.io/CafeElite-LandingPage/" target="_blank">Live Demo</a>
+### ☕ CafeLite Landing Page A modern and responsive landing page project.<br> 
+💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)<br> 
+🎨 [View CSS Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/tree/master/src/scss) <br>
+🌐 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/)
 
 <br>
 
