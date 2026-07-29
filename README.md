@@ -27,7 +27,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 
 I am continuously expanding my knowledge through hands-on projects, self-learning and practical experience.
 
-<br> <br> 
+<br>
 ---
 
 ## 🚀 Projects
