@@ -33,7 +33,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 
 ### ☕ CafeLite Landing Page
 A modern and responsive landing page project.
-💻 [View Code](https://github.com/GahramanValiyev/CafeElite-LandingPage)
+💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)
 🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/)
 
 ### 📱 Instagram Profile
