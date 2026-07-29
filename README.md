@@ -43,6 +43,7 @@ A responsive Instagram profile interface recreated with HTML and CSS. <br>
 💻 [View CSS Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/css/style.css) <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/instagram-profile/)  (enter, pls, wait the page opens) 
 
+
 ### 📊 Responsive Admin Panel
 A responsive admin dashboard interface designed for different screen sizes.
 💻 [View HTML Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/index.html) <br>
@@ -50,8 +51,14 @@ A responsive admin dashboard interface designed for different screen sizes.
 💻 [View JS Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/js/index.js) <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/Responsive-Admin-Panel/)
 
+
 ### 🎮 Tic-Tac-Toe
 A classic Tic-Tac-Toe game developed as a programming project.
+💻 [View HTML Code]( https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/index.html) <br>
+💻 [View CSS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/css/style.css) <br>
+💻 [View JS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/js/index.js) <br>
+
+
 
 ### 🐍 Python Exercises
  A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
