@@ -1,3 +1,9 @@
+![Dark animated profile banner](https://gahramanvaliyev.github.io/Gahraman/assets/dark_1.svg)
+
+![Light animated profile banner](https://gahramanvaliyev.github.io/Gahraman/assets/light.svg)
+
+
+
 # 👋 Hi, I'm Gahraman Valiyev
 
 ### Fachinformatiker | IT Support | Cybersecurity | Networking
