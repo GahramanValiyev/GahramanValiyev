@@ -57,6 +57,7 @@ A classic Tic-Tac-Toe game developed as a programming project. <br>
 💻 [View HTML Code]( https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/index.html) <br>
 💻 [View CSS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/css/style.css) <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/js/index.js) <br>
+🔗 [Live Demo](https://gahramanvaliyev.github.io/TIC-TAC-TOC/)
 
 
 
