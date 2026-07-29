@@ -34,7 +34,7 @@ I am continuously expanding my knowledge through hands-on projects, self-learnin
 ### ☕ CafeLite Landing Page
 A modern and responsive landing page project.<br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)<br>
-🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/) <br>
+🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/)
 
 
 ### 📱 Instagram Profile
@@ -50,7 +50,8 @@ A responsive admin dashboard interface designed for different screen sizes.
 A classic Tic-Tac-Toe game developed as a programming project.
 
 ### 🐍 Python Exercises
-A Python exercise that determines the type of a shape based on the number and lengths of sides entered by the user.<br>
-💻 [View Python Code](https://github.com/GahramanValiyev/Python_Exercise_1.2/blob/master/Python%20Exercise/Python_%C3%9Cbungen.py)<br> <br>
-A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
-💻 [View Python Code](https://github.com/GahramanValiyev/Python_exercise_1/blob/master/Python/Exercise.py)
+ A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
+💻 [View Python Code](https://github.com/GahramanValiyev/Python_exercise_1/blob/master/Python/Exercise.py)  <br>
+ A Python exercise that determines the type of a shape based on the number and lengths of sides entered by the user.<br>
+💻 [View Python Code](https://github.com/GahramanValiyev/Python_Exercise_1.2/blob/master/Python%20Exercise/Python_%C3%9Cbungen.py)
+
