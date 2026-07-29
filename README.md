@@ -41,7 +41,7 @@ A modern and responsive landing page project.<br>
 A responsive Instagram profile interface recreated with HTML and CSS. <br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/index.html)<br> 
 💻 [View CSS Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/css/style.css)<br>
-🔗 [Live Demo](https://gahramanvaliyev.github.io/instagram-profile/)
+🔗 [Live Demo](https://gahramanvaliyev.github.io/instagram-profile/)  (enter, pls, wait the page opens) 
 
 ### 📊 Responsive Admin Panel
 A responsive admin dashboard interface designed for different screen sizes.
