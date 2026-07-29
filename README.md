@@ -38,7 +38,7 @@ A modern and responsive landing page project.<br>
 
 
 ### 📱 Instagram Profile
-A responsive Instagram profile interface recreated with HTML and CSS.
+A responsive Instagram profile interface recreated with HTML and CSS. <br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/index.html)<br> 
 💻 [View CSS Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/css/style.css)<br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/instagram-profile/)
