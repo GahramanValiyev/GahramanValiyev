@@ -27,7 +27,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 
 I am continuously expanding my knowledge through hands-on projects, self-learning and practical experience.
 
-
+<br> <br> 
 ---
 
 ## 🚀 Projects
@@ -37,7 +37,7 @@ A modern and responsive landing page project.<br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)<br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/)
 
-
+<br>
 
 ### 📱 Instagram Profile
 A responsive Instagram profile interface recreated with HTML and CSS. <br>
@@ -45,7 +45,7 @@ A responsive Instagram profile interface recreated with HTML and CSS. <br>
 💻 [View CSS Code](https://github.com/GahramanValiyev/instagram-profile/blob/master/css/style.css) <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/instagram-profile/)  (enter, pls, wait the page opens) 
 
-
+<br>
 
 ### 📊 Responsive Admin Panel
 A responsive admin dashboard interface designed for different screen sizes. <br>
@@ -54,7 +54,7 @@ A responsive admin dashboard interface designed for different screen sizes. <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/Responsive-Admin-Panel/blob/master/js/index.js) <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/Responsive-Admin-Panel/)
 
-
+<br> 
 
 ### 🎮 Tic-Tac-Toe
 A classic Tic-Tac-Toe game developed as a programming project. <br>
@@ -63,14 +63,14 @@ A classic Tic-Tac-Toe game developed as a programming project. <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/TIC-TAC-TOC/blob/master/js/index.js) <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/TIC-TAC-TOC/)
 
-
+<br> 
 
 ### 🎮 Rock Paper Scissors
 A simple Rock, Paper, Scissors game built with JavaScript. It uses browser prompts for input and displays round-by-round results and the final score on the page. <br>
 💻 [View HTML Code](https://github.com/GahramanValiyev/Project/blob/master/Rock%20Paper%20Scissors/Project/index.html) <br>
 💻 [View JS Code](https://github.com/GahramanValiyev/Project/blob/master/Rock%20Paper%20Scissors/Project/script.js) 
 
-
+<br> 
 
 ### 🐍 Python Exercises
  A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
