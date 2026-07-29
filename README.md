@@ -74,7 +74,7 @@ A simple Rock, Paper, Scissors game built with JavaScript. It uses browser promp
 
 ### 🐍 Python Exercises
  A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
-🐍 [View Python Code](https://github.com/GahramanValiyev/Python_exercise_1/blob/master/Python/Exercise.py)  <br>
+🐍 [View Python Code](https://github.com/GahramanValiyev/Python_exercise_1/blob/master/Python/Exercise.py)  <br> <br>
  A Python exercise that determines the type of a shape based on the number and lengths of sides entered by the user.<br>
 🐍 [View Python Code](https://github.com/GahramanValiyev/Python_Exercise_1.2/blob/master/Python%20Exercise/Python_%C3%9Cbungen.py)
 
