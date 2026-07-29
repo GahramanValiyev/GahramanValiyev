@@ -19,7 +19,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 - Cybersecurity
 - Cloud
 - Windows Server
-- IT Support
+- IT Support (1st & 2nd Level) 
 - HTML / CSS
 - Claude Code
 - AI-Assisted Development & AI Subagents
@@ -35,6 +35,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 A modern and responsive landing page project.
 💻 [View HTML Code](https://github.com/GahramanValiyev/CafeElite-LandingPage/blob/master/index.html)
 🔗 [Live Demo](https://gahramanvaliyev.github.io/CafeElite-LandingPage/)
+[View JavaScript Code](./src/js/script.js)
 
 ### 📱 Instagram Profile
 A responsive Instagram profile interface recreated with HTML and CSS.
