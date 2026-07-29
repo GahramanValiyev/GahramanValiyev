@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! 🚀
 
 I am a Junior IT professional continuously learning and developing my skills across different areas of IT. I actively work with and improve my knowledge in the following technologies and areas:
 
----
+
 
 ## 🛠️ Skills & Technologies
 
