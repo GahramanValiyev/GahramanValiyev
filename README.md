@@ -60,6 +60,12 @@ A classic Tic-Tac-Toe game developed as a programming project. <br>
 🔗 [Live Demo](https://gahramanvaliyev.github.io/TIC-TAC-TOC/)
 
 
+### 🎮 Rock Paper Scissors
+A simple Rock, Paper, Scissors game built with JavaScript. It uses browser prompts for input and displays round-by-round results and the final score on the page.
+💻 [View HTML Code](https://github.com/GahramanValiyev/Project/blob/master/Rock%20Paper%20Scissors/Project/index.html)
+💻 [View JS Code](https://github.com/GahramanValiyev/Project/blob/master/Rock%20Paper%20Scissors/Project/script.js)
+
+
 
 ### 🐍 Python Exercises
  A Python programming exercise that determines the type of a geometric shape based on the number and lengths of sides entered by the user. <br>
