@@ -16,7 +16,7 @@ I am a Junior IT professional continuously learning and developing my skills acr
 
 - C# / .NET
 - MS SQL
-- SAP B1
+- ERP Systems - SAP Business One
 - SAP HANA
 - Visual Studio
 - Networking
